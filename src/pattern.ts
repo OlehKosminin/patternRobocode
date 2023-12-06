@@ -37,6 +37,4 @@ const pastePatternGirl = (
     `;
 };
 
-console.log();
-
 export { pastePatternBoy, pastePatternGirl };
